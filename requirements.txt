@@ -2,7 +2,7 @@ beautifulsoup4
 certifi
 charset-normalizer
 distro
-dotenv-python
+python-dotenv
 groq
 h11
 httpcore
